@@ -1,0 +1,8 @@
+FFTCG	11-22-23
+plugins/FFTCG/plugininfo.txt
+plugins/FFTCG/sets/carddata.txt 
+plugins/FFTCG/sets/setimages/general/cardback.jpg
+plugins/FFTCG/version.txt 
+
+CardGeneralURLs:
+https://fftcg.cdn.sewest.net/images/cards/full/
