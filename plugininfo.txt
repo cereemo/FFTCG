@@ -6,12 +6,12 @@
 	</deckzone>
 	
 	<gamezone>
-		<label>Deck</label>
+		<label>Hand</label>
+		<visibletoowner>yes</visibletoowner>
 	</gamezone>
 	
 	<gamezone>
-		<label>Hand</label>
-		<visibletoowner>yes</visibletoowner>
+		<label>Deck</label>
 	</gamezone>
 	
 	<gamezone>
