@@ -1,6 +1,6 @@
 <version>
 	
-	<lastupdateYYMMDD>231114</lastupdateYYMMDD>
+	<lastupdateYYMMDD>231119</lastupdateYYMMDD>
 	<versionurl>https://raw.githubusercontent.com/cereemo/FFTCG/main/version.txt</versionurl>
 	<updateurl>https://raw.githubusercontent.com/cereemo/FFTCG/main/updatelist.txt</updateurl>
 	
